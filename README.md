@@ -1,15 +1,15 @@
 ### CS7375 Project ###
 
-## Contributors: ##
-# Zeynep
-# Tyler
-# Deanna
-# Nemanja
+# Contributors: #
+- Zeynep
+- Tyler
+- Deanna
+- Nemanja
 
-## Technologies Used ##
-# PyTorch
-# Numpy, Pandas, Matplotlib
+# Technologies Used #
+- PyTorch
+- Numpy, Pandas, Matplotlib
 
-## Description ##
+# Description #
 
-## System Block Diagram ##
+# System Block Diagram #
